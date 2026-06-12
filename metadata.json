@@ -1,0 +1,6 @@
+{
+  "name": "Magicbill",
+  "description": "SaaS landing page and dashboard for Magicbill, a restaurant billing software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
